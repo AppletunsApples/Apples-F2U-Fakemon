@@ -20,6 +20,12 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 > Hikoku
 - Primarina - Water/Dark
 > Hikoku
+- Rayquaza - Dragon/Dark
+> Ayyskyubi
+- Xerneas - Fairy/Ghost
+> Ayyskyubi
+- Zamazenta - Fighting/Psychic
+> Ayyskyubi
 
 # Pure
 - Horses (Ponyta & Rapidash Likes) - Grass/Ghost
