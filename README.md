@@ -5,17 +5,26 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 # FAKEMON TYPINGS
 # Convergents
 - Magikarp & Gyarados - Fairy
+> faiahaato 
 - Staryu - Grass & Starmie - Grass/Poison
+> faiahaato 
 - Solosis, Duosion & Reuniclus - Bug
-
+> faiahaato
+ 
 # Regionals
 - Feebas & Milotic - Water/Ghost
+> Hikoku
 - Meowscarada - Grass/Poison
+> Hikoku
 - Delphox - Fire/Fairy
+> Hikoku
 - Primarina - Water/Dark
+> Hikoku
 
 # Pure
 - Horses (Ponyta & Rapidash Likes) - Grass/Ghost
+> Hikoku
 
 # Others
 - Wyrdeer - Steel/Normal
+> Ayyskyubi
