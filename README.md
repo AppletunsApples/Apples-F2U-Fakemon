@@ -9,13 +9,13 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 - Solosis, Duosion & Reuniclus - Bug
 
 # Regionals
-Feebas & Milotic - Water/Ghost
-Meowscarada - Grass/Poison
-Delphox - Fire/Fairy
-Primarina - Water/Dark
+- Feebas & Milotic - Water/Ghost
+- Meowscarada - Grass/Poison
+- Delphox - Fire/Fairy
+- Primarina - Water/Dark
 
 # Pure
-Horses (Ponyta & Rapidash Likes) - Grass/Ghost
+- Horses (Ponyta & Rapidash Likes) - Grass/Ghost
 
 # Others
-Wyrdeer - Steel/Normal
+- Wyrdeer - Steel/Normal
