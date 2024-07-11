@@ -5,7 +5,7 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 # FAKEMON TYPINGS
 # Convergents
 - Magikarp & Gyarados - Fairy
-- Staryu - Grass & Starmie - Grass/Dark
+- Staryu - Grass & Starmie - Grass/Poison
 - Solosis, Duosion & Reuniclus - Bug
 
 # Regionals
