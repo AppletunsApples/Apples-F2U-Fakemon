@@ -6,11 +6,17 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 # Convergents
 - Magikarp & Gyarados - Fairy
 > faiahaato 
-- Staryu - Grass & Starmie - Grass/Poison
+- Staryu - Grass, Starmie - Grass/Poison
 > faiahaato 
 - Solosis, Duosion & Reuniclus - Bug
 > faiahaato
- 
+- Poltchageist & Sinistcha - Water/Ghost
+> Hikoku
+- Dewpider & Araquanid - Poison/Dark
+> Hikoku
+- Feebas & Milotic - Poison
+> amit_.
+
 # Regionals
 - Feebas & Milotic - Water/Ghost
 > Hikoku
@@ -26,6 +32,18 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 > Ayyskyubi
 - Zamazenta - Fighting/Psychic
 > Ayyskyubi
+- Buizel & Floatzel
+> Ayyskyubi
+- Klink, Klang & Klinklang
+> amit_.
+- Yamper & alt Yamper evolution - Normal/Ice
+> amit_.
+- Skwovet & Greedent - Normal/Ground
+> amit_.
+- Vulpix - Ground, Ninetales - Ground/Ghost
+> amit_.
+- Misdreavus & Mismagius - Fairy/Fire
+> amit_.
 
 # Pure
 - Horses (Ponyta & Rapidash Likes) - Grass/Ghost
