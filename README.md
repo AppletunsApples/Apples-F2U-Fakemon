@@ -32,9 +32,9 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 > Ayyskyubi
 - Zamazenta - Fighting/Psychic
 > Ayyskyubi
-- Buizel & Floatzel
+- Buizel & Floatzel - Dark
 > Ayyskyubi
-- Klink, Klang & Klinklang
+- Klink, Klang & Klinklang - Steel/Ghost
 > amit_.
 - Yamper & alt Yamper evolution - Normal/Ice
 > amit_.
