@@ -16,7 +16,10 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 > Hikoku
 - Feebas & Milotic - Poison
 > amit_.
-
+- Litwick, Lampent & Chandelure - Electric/Flying
+> Scarlet Spectral
+- Snom & Frosmoth - Water/Dark
+> Faiahaato
 # Regionals
 - Feebas & Milotic - Water/Ghost
 > Hikoku
@@ -44,6 +47,12 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 > amit_.
 - Misdreavus & Mismagius - Fairy/Fire
 > amit_.
+- Buizel & Floatzel - Poison/Dark
+> Ayyskyubi
+- Espathra - Dark/Fighting
+> Faiahaato
+- Sandygast & Palossand - Fairy/Ground
+> Faiahaato
 
 # Pure
 - Horses (Ponyta & Rapidash Likes) - Grass/Ghost
@@ -51,4 +60,6 @@ The thread can be found at https://eeveeexpo.com/resources/1534/.
 
 # Others
 - Wyrdeer - Steel/Normal
+> Ayyskyubi
+- Toxtricity Forms
 > Ayyskyubi
