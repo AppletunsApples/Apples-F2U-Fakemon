@@ -1,7 +1,7 @@
 A list of Fakemon I have commissioned through out the years & am contributing to others by making them free to use.
 I greatly request, that if you make sprites & PBS info for them, you contribute such to the EE FFPR thread as well.
 The thread can be found at https://eeveeexpo.com/resources/1534/.
-
+Below credits only include the designer but please credit me as well!
 # FAKEMON TYPINGS
 # Convergents
 - Magikarp & Gyarados - Fairy
