@@ -1,8 +1,14 @@
-A list of Fakemon I have commissioned through out the years & am contributing to others by making them free to use.
+A list of Fakemon I have commissioned through out the years & am selling to others to buy. I have been given permission from the artists to sell. Costs can be found below. 
 I greatly request, that if you make sprites & PBS info for them, you contribute such to the EE FFPR thread as well.
-The thread can be found at https://eeveeexpo.com/resources/1534/.
+The thread can be found at https://eeveeexpo.com/resources/1534/. Ultimately up to you though!
 Below credits only include the designer but please credit me as well!
-# FAKEMON TYPINGS
+# COSTS
+- Single stage - 15
+- Two stage - 20
+- Three stage - 25
+- 4+ stage - 30
+
+# FAKEMON TYPES
 # Convergents
 - Magikarp & Gyarados - Fairy
 > faiahaato 
