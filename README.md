@@ -2,11 +2,11 @@ A list of Fakemon I have commissioned through out the years & am selling to othe
 I greatly request, that if you make sprites & PBS info for them, you contribute such to the EE FFPR thread as well.
 The thread can be found at https://eeveeexpo.com/resources/1534/. Ultimately up to you though!
 Below credits only include the designer but please credit me as well!
-# COSTS
-- Single stage - 15
-- Two stage - 20
-- Three stage - 25
-- 4+ stage - 30
+# COSTS (all USD)
+- Single stage - $15
+- Two stage - $20
+- Three stage - $25
+- 4+ stage - $30
 
 # FAKEMON TYPES
 # Convergents
