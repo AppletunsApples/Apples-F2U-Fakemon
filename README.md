@@ -6,8 +6,6 @@ A list of F2u Fakemon I've commissioned.
 > faiahaato 
 - Staryu - Grass, Starmie - Grass/Poison
 > faiahaato 
-- Solosis, Duosion & Reuniclus - Bug
-> faiahaato
 - Poltchageist & Sinistcha - Water/Ghost
 > Hikoku
 - Dewpider & Araquanid - Poison/Dark
